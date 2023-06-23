@@ -3,4 +3,5 @@ layout: page
 title: Publications
 ---
 
-test of publications
+- Connections and performances of Green’s function methods for charged and neutral excitations,
+- 
