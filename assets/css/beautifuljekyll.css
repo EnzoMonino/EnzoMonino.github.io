@@ -47,13 +47,14 @@ h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
 
+a {
+  color: {{ site.link-col | default: "#008AFF" }};
+}
+
 .subtitle-class {
   color: red;
 }
 
-a {
-  color: {{ site.link-col | default: "#008AFF" }};
-}
 a:hover,
 a:focus {
   color: {{ site.hover-col | default: "#0085A1" }};
