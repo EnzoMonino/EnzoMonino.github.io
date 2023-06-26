@@ -11,6 +11,6 @@ I have studied theoretical chemistry and modeling at the University of Montpelli
 
 My Ph.D. thesis is entitled **Green’s function methods for charged and neutral excitations** where I apply some well-known approximations (second-Born, $GT$, and $GW$) to compute those excitations in molecules. In this thesis, I also explore some of the features of these methods like discontinuities in physical quantities (and their origins) as well as the connections between these methods.
 
-I am mainly interested in electronic structure methods based on perturbation theory (but not only) with a focus on excited states.  I am also one of the main developers of the [qcmath](https://github.com/LCPQ/qcmath/) software that is based on the [Mathematica](https://www.wolfram.com/mathematica/) environment. It aims to help newcomers in quantum chemistry easily to develop their ideas thanks to the powerful symbolic nature of Mathematica.
+I am mainly interested in electronic structure methods based on perturbation theory (but not only) with a focus on excited states.  I am also one of the developers of the [qcmath](https://github.com/LCPQ/qcmath/) software that is based on the [Mathematica](https://www.wolfram.com/mathematica/) environment. It aims to help newcomers in quantum chemistry easily to develop their ideas thanks to the powerful symbolic nature of Mathematica.
 
 
