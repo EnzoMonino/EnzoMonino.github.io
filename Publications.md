@@ -3,9 +3,13 @@ layout: page
 title: Publications
 ---
 
-- [Connections and performances of Green’s function methods for charged and neutral excitations](https://arxiv.org/pdf/2305.16959.pdf),\
+- [QCMATH: Mathematica modules for electronic structure calculations](https://arxiv.org/pdf/2308.14890.pdf),\
+  E. Monino, A. Marie and P. F. Loos.\
+  *arXiv*, 2308.14890 [physics.chem-p] (2023).
+
+- [Connections and performances of Green’s function methods for charged and neutral excitations](https://doi.org/10.1063/5.0159853),\
   E. Monino and P. F. Loos.\
-   *J. Chem. Phys.* (in press).
+   *J. Chem. Phys.* **159**, 034105 (2023).
 
 - [Connections between many-body perturbation and coupled-cluster theories](https://doi.org/10.1063/5.0130837),\
   R. Quintero-Monsebaiz, E. Monino, A. Marie, and P. F. Loos.\
