@@ -44,5 +44,5 @@ M. Kumar, D. Soler-Polo, M. Lozano, **E. Monino**, L. Veis, P. Jelinek\
    *J. Chem. Phys. (Open Access)* **156**, 231101 (2022).
   
 - [Spin-conserved and spin-flip optical excitations from the Bethe-Salpeter equation formalism](https://doi.org/10.1021/acs.jctc.1c00074),\
-   E. Monino and P. F. Loos\
+   **E. Monino** and P. F. Loos\
    *J. Chem. Theory Comput. (Open Access)* **17**, 2852 (2021).
