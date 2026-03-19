@@ -46,7 +46,3 @@ M. Kumar, D. Soler-Polo, M. Lozano, **E. Monino**, L. Veis, P. Jelinek\
 - [Spin-conserved and spin-flip optical excitations from the Bethe-Salpeter equation formalism](https://doi.org/10.1021/acs.jctc.1c00074),\
    E. Monino and P. F. Loos\
    *J. Chem. Theory Comput. (Open Access)* **17**, 2852 (2021).
-
-- [Upper bound for the charge transferred during a molecular electronic transition — Insights from matrix analysis](https://arxiv.org/pdf/2104.13465.pdf),\
-  E. Monino and T. Etienne.
-  (Preprint) (2021).
